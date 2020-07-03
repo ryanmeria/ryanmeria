@@ -16,7 +16,7 @@ I value collaboration, both between members of our team and with the teams aroun
 ## My Expectations
 A message on Slack is often the best way to get my attention. If I can, I will drop what I am doing to talk with you. Please let me know if you think it will be a conversation longer than 15 minutes, and if it is, feel free to find an opening in my calendar and booking that time. I am not a fan of solving problems over e-mail, and always prefer to have a face to face (or Teams) conversation. While our O3s are a regularly scheduled time to have a chat with me, don’t feel that you ever have to wait for that time.
 
-- I expect you to be available during our core hours, which are from 9 am to 3 pm.
+- I expect you to be available during our core hours, which are from 9 am to 3 pm. Given that we work a 7.5 hour day, I also expect you to find a start time and end time that work for you, while meeting this commitment.
 - I expect you to find a good symbiosis between work and the rest of your life. Take care of you and yours, but take the job seriously.
 - I expect dialog between yourself and the rest of the team. I encourage pairing, and honest and respectful peer review.
 
