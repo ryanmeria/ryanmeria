@@ -26,7 +26,7 @@ I value collaboration, both between members of our team and with the teams aroun
 - I expect dialog between yourself and the rest of the team. I encourage pairing, and honest and respectful peer review.
 - A message on Slack is often the best way to get my attention. If I can, I will drop what I am doing to talk with you. I am not a fan of solving problems over e-mail and prefer to have a face to face (or Teams) conversation. While our O3s are a regularly scheduled time to have a chat with me, don’t feel that you have to wait for that time.
 - We're all problem solvers at our core. However, asking for a consult or a sounding board from your peers is a sign of strength and maturity, not weakness. Try to find a solution but understand when you may have stalled and need some help.
-- Respect our working agreement.
+- Respect our team's working agreement.
 - I respect the value that a conversation with faces and voices brings, and a 5 minute chat can easily be worth a 15 minute Slack chat, or a 2 hour e-mail exchange. By order of preference, I prefer to communicate in-person, via Slack, Microsoft Teams, e-mail, and if you can find them, carrier pigeon.
 
 ## O3s
