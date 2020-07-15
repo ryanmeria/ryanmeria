@@ -4,7 +4,7 @@ All about me
 ## Who is Ryan?
 In no particular order, and sometimes these facets are combined.
 - Developer
-- Father
+- Family guy (as a person, but I still love the show)
 - Golfer
 - Skier
 - Camping/hiking enthusiast
