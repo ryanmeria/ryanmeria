@@ -20,6 +20,9 @@ As a Team Lead of an Agile development team, I am responsible for bringing toget
 ## What do I value most?
 I value collaboration, both between members of our team and with the teams around us that make up Application Services. Respectful conversations, owning our faults, and empathy are keys to success when dealing with conflicts. I value the team holding me accountable and following up with me to ensure they get what they need from me.
 
+## My hours
+Typically, my work hours begin at 8:30, and I will go until 4:30 or 5:00 depending on how long of a lunch I take. That's today's state, with the pandemic currently in full swing. On those fortunate days where children are not up bright and early, I may start my day at 7, but the reality is, those days are rare.
+
 ## My Expectations
 - I expect you to be available during our core hours, which are from 9 am to 3 pm. Given that we work a 7.5 hour day, I also expect you to find a start time and end time that work for you, while meeting this commitment.
 - I expect you to find symbiosis between work and the rest of your life. One affects the other.
@@ -36,3 +39,5 @@ I hold O3s (One-On-One) with each team member every two weeks. I will often come
 - I tend to remember a lot of information down the road, but I don't necessarily remember things that were talked about 5 minutes prior. Please follow up with me if you have given me an action item and I have not gotten back to you.
 - Problems are often simpler in my own head, in contrast to reality, and I appreciate a reality check every now and then.
 - If a technical problem is particularly perplexing, I've been told I start to act like Dr. Gregory House, and refuse to let it go until it is solved.
+- I have been told that people are surprised when I tell them I am introverted. My personal philosophy on introversion vs. extroversion is, that governs how you react under stress, and not necessarily your day to day interactions. Because of that, the title of Extroverted Introvert, or Outgoing Introvert, makes the most sense to me. https://introvertdear.com/news/extroverted-introvert-signs/
+- Context switching is difficult for me. I need to do a better job of protecting my own time in order to ensure I give myself large blocks of time where I can be focused.
