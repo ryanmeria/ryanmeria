@@ -13,6 +13,7 @@ In no particular order, and sometimes these facets are combined.
 - Sport shooter
 - Music lover
 - Still looking for the question of which 42 is the answer
+- Extroverted Introvert - Yes, that is a thing
 
 ## My role
 As a Team Lead of an Agile development team, I am responsible for bringing together individuals united around delivering value. I am here as a mentor, a partner for pair programming, a sounding board, and a coach.
