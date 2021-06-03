@@ -20,7 +20,7 @@ As the Solution Architect, I am responsible for aligning technology and our solu
 
 ## What do I value most?
 ### Growth
-I see a lack of knowledge and understanding as a stepping stone. I value not knowing something, or lacking experience, and rising to the challenge of learning it. I'm not afraid to say what I don't know, and will approach problems with curiosity and likely excitement, not stress and trepidation. I want to be a little bit smarter tomorrow, than I was today. I want to fail a little less every day.
+I see a lack of knowledge and understanding as a stepping stone. I value not knowing something, or lacking experience, and rising to the challenge of learning it. I'm not afraid to say what I don't know, and will approach problems with curiosity and likely excitement (yes, even if production is down), not stress and trepidation. I want to be a little bit smarter tomorrow, than I was today. I want to fail a little less every day.
 
 ### Competence
 I value being able to do hard things, and continual improvement. Competence is a Jacob's ladder, you're always climbing. The journey towards competence has more meaning for me than the outcome.
