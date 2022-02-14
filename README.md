@@ -29,7 +29,7 @@ I value being able to do hard things, and continual improvement. Competence is a
 I value collaboration, between members of our team and with the teams around us. Respectful conversations, owning our faults, and empathy are keys to success when dealing with conflicts. I value the team holding me accountable and following up with me to ensure they get what they need from me.
 
 ## My hours
-Typically, Monday through Wednesday, my work hours begin at 8:45, and I will go until 4:30 or 5:00 depending on how long of a lunch I take. Thursday and Friday, I tend to start between 7 and 7:30, and finish my day earlier.
+Typically, Monday, Wednesday and Thursday, my work hours begin at 8:00, and I will go until 4:15 or 4:30 depending on how long of a lunch I take. Tuesday and Friday, I tend to start between 7 and 8, and finish my day earlier.
 
 ## My Expectations
 - I expect you to be available during our morning meeting and project standup, which occurs every day at 9am and 9:45am. Given that we work a 7.25 hour day, I also expect you to find a start time and end time that work for you, while meeting this commitment.
