@@ -23,16 +23,16 @@ As the Solution Architect, I am responsible for aligning technology and our solu
 I see a lack of knowledge and understanding as a stepping stone. I value not knowing something, or lacking experience, and rising to the challenge of learning it. I'm not afraid to say what I don't know, and will approach problems with curiosity and likely excitement (yes, even if production is down), not stress and trepidation. I want to be a little bit smarter tomorrow, than I was today. I want to fail a little less every day.
 
 ### Competence
-I value being able to do hard things, and continual improvement. Competence is a Jacob's ladder, you're always climbing. The journey towards competence has more meaning for me than the outcome.
+I value being able to do hard things, and continual improvement. Competence is a Jacob's Ladder, you're always climbing. The journey towards competence has more meaning for me than the outcome.
 
 ### Respect
 I value collaboration, between members of our team and with the teams around us. Respectful conversations, owning our faults, and empathy are keys to success when dealing with conflicts. I value the team holding me accountable and following up with me to ensure they get what they need from me.
 
 ## My hours
-Typically, Monday, Tuesday and Thursday, my work hours begin at 8:00, and I will go until 4:15 or 4:30 depending on how long of a lunch I take. Wednesday and Friday, I tend to start between 7 and 8, and finish my day earlier. Coincidentally, these are also the days I work from out of the CRNA office.
+Typically, if I am working from home, my work hours begin between 8:00 and 8:30, and I will go until 4:15 or 4:45, depending on how long of a lunch I take. On the days I work out of the CRNA office (typically Wednesday and Friday), I will start between 8:30 and 9:00, and will be available until 4:00 and 4:30pm. Working the office is not a guarantee for those days, and I will stay home as required depending on illness and other personal or family needs.
 
 ## My Expectations
-- I expect you to be available during our morning meeting and project standup, which occurs every day at 9am and 9:45am. Given that we work a 7.25 hour day, I also expect you to find a start time and end time that work for you, while meeting this commitment.
+- I expect you to be available during our morning meeting and project standup, which occurs every day at 9am and 9:30am. Given that we work a 7.25 hour day, I also expect you to find a start time and end time that work for you, while meeting this commitment.
 - I expect you to find symbiosis between work and the rest of your life. One affects the other.
 - I expect dialog between yourself and the rest of the team. I encourage pairing, and honest and respectful peer review.
 - A message on Teams is often the best way to get my attention. If I can, I will drop what I am doing to talk with you. I am not a fan of solving problems over e-mail and prefer to have a face to face (or Teams) conversation. While our O3s are a regularly scheduled time to have a chat with me, don’t feel that you have to wait for that time.
