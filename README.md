@@ -11,6 +11,8 @@ In no particular order, and sometimes these facets are combined.
 - Coffee consumer
 - DIYer
 - Competition shooter
+- Runner
+- Judoka
 - Music lover
 - Still looking for the question of which 42 is the answer
 - Extroverted Introvert - Yes, that is a thing
